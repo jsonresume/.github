@@ -32,7 +32,7 @@ It contains:
 | CLI | [`resume-cli`](https://www.npmjs.com/package/resume-cli) |
 | Registry (free hosting, 60+ themes) | [registry.jsonresume.org](https://registry.jsonresume.org) |
 | Themes gallery | [jsonresume.org/themes](https://jsonresume.org/themes) |
-| Docs | [jsonresume.github.io/jsonresume.org](https://jsonresume.github.io/jsonresume.org/) |
+| Docs | [jsonresume.org/docs](https://jsonresume.org/docs) |
 | Converters | e.g. [`@jsonresume/jsonresume-to-rendercv`](https://www.npmjs.com/package/@jsonresume/jsonresume-to-rendercv) |
 
 Also here: **[mcp](https://github.com/jsonresume/mcp)**, an MCP server that lets
